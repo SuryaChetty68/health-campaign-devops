@@ -17,4 +17,6 @@ domain_name: "hcm-console.digit.org"
 # Replace with the name you want to give to your S3 bucket which is used to store the terraform states
 terraform_state_bucket_name: "testhealth-digit-buckets-ekfrazo"
 
+ssh_key_name: "hcm_demo2"
+
 public_ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMGy50jhdRKJlXgJ/CKCx2lYSAwJ90GQsQtrle5leRQu"
