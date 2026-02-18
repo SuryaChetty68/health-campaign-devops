@@ -18,6 +18,6 @@ domain_name: "ekfrazo-digit.duckdns.org"
 # Replace with the name you want to give to your S3 bucket which is used to store the terraform states
 terraform_state_bucket_name: "testhealth-digit-buckets-ekfrazo"
 
-ssh_key_name: "ekfrazo-hcm_demo"
+ssh_key_name: "ekfrazo_key"
 
-public_ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILXXPgUQouE3HH+uiIsjbz8/j+WxSyYj8QYg4kJdM4j5"
+public_ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDn11QsI6/VXhWaxKe10gqCAAa+jSF63iONowhEKLcY9qS3AbX0uluna5mo5HQTF+xedUmkya/Uy2ZAJI7DocS8npJ3mDCJNP1vOwsxTpKnKDano8RF6jXlMOOnI1RxFXL0Yk2tD2ZcXOEGFSR+yXt+imtUO9zyGTIcSU+rNe3LtEApLuh9Rm4/pmRCIZ2EgkE4BKwI5UXgf9rWo66XEHRHtiVXZ5rXg57QvCZxxv9jhhl3WIRlqR1YxPeb9xl37G5J38TWXrRf0ECwWBWtFZwlY+zSpc0z5guqQomsFUZflPNaxdaF2QtaZTnSFCFfX1u9kwiXBB2Wf4tR6IlLDTNh"
