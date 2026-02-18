@@ -16,7 +16,7 @@ db_username: "testhealthsc"
 domain_name: "ekfrazo-digit.duckdns.org"
 
 # Replace with the name you want to give to your S3 bucket which is used to store the terraform states
-terraform_state_bucket_name: "testhealth-digit-buckets-ekfrazo"
+terraform_state_bucket_name: "testhealth-ekfrazosc-tfstate"
 
 ssh_key_name: "ekfrazo_key"
 
