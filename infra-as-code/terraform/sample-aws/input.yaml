@@ -21,3 +21,6 @@ terraform_state_bucket_name: "testhealth-ekfrazosc-tfstate"
 ssh_key_name: "ekfrazo_key"
 
 public_ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDn11QsI6/VXhWaxKe10gqCAAa+jSF63iONowhEKLcY9qS3AbX0uluna5mo5HQTF+xedUmkya/Uy2ZAJI7DocS8npJ3mDCJNP1vOwsxTpKnKDano8RF6jXlMOOnI1RxFXL0Yk2tD2ZcXOEGFSR+yXt+imtUO9zyGTIcSU+rNe3LtEApLuh9Rm4/pmRCIZ2EgkE4BKwI5UXgf9rWo66XEHRHtiVXZ5rXg57QvCZxxv9jhhl3WIRlqR1YxPeb9xl37G5J38TWXrRf0ECwWBWtFZwlY+zSpc0z5guqQomsFUZflPNaxdaF2QtaZTnSFCFfX1u9kwiXBB2Wf4tR6IlLDTNh"
+
+
+#testing on 17 Mar 2026
